@@ -1,6 +1,8 @@
 
-def levitation_quiz
-	#your code here
+def levitation_quiz(input)
+  'What is the spell that enacts levitation?'
+
+
 end
 
 
