@@ -1,6 +1,6 @@
 
-def levitation_quiz(input)
-  puts 'What is the spell that enacts levitation?' until input == "Wingardium Leviosa"
+def levitation_quiz
+  puts 'What is the spell that enacts levitation?' 
 end
 
 
